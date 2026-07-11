@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import { navigationLinks } from "./navigation";
+import { navigationLinks } from "./Navigation";
 // import { navigationLinks } from "../constants/navigation";
 
 export default function Footer() {
