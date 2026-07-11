@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Link, NavLink } from "react-router-dom";
-import { navigationLinks } from "./navigation";
+import { navigationLinks } from "./Navigation";
 
 export default function Navbar() {
   const [open, setOpen] = useState(false);
