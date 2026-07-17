@@ -68,8 +68,8 @@ export default function Footer() {
 
             <div className="space-y-3 text-gray-400">
               <p>Jodhpur, Rajasthan</p>
-              <p>+91 98765 43210</p>
-              <p>info@royaldesertrides.com</p>
+              <p>+91 7023280401</p>
+              <p>indigodunestravel@gmail.com</p>
             </div>
           </div>
         </div>
